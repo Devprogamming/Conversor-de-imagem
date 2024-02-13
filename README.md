@@ -5,7 +5,7 @@
 1. **Importação de bibliotecas:**
 O código começa com a importação das bibliotecas necessárias para a execução do programa, que incluem o tkinter (para a criação da GUI), o filedialog (para abrir janelas de diálogo para escolha de arquivos), o PIL (para manipulação de imagens) e o cv2 (OpenCV, para processamento de imagens).
 
-**Configuração para Linux Umbutu:**
+**Configuração para Linux Ubuntu:**
 
 ```yaml
 sudo apt-get install python-pip
@@ -34,7 +34,7 @@ Dentro do diretório imagens coloque todas as imagem que você quer converter pa
 
 Exemplo: "/conversor/logo.png
 
-4. **Crie um arquivo com o nome "main.py" na raiz do seu projeto: Copie e cole o código abaixo no arquivo, salve e execute o programa."
+4. **Crie um arquivo com o nome "main.py" na raiz do seu projeto: Copie e cole o código abaixo no arquivo, salve e execute o programa.**
 
 Exemplo: "/conversor/main.py
 
