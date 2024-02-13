@@ -39,6 +39,16 @@ Exemplo: "/conversor/logo.png
 Exemplo: "/conversor/main.py
 
 ```yaml
+# sudo apt-get install python-pip
+
+# sudo apt-get install python3-tk
+
+# pip3 list -v | grep Pillow
+
+# python3 -m pip install --upgrade Pillow
+
+# sudo apt-get install python3-opencv
+
 from tkinter import*
 from tkinter import Tk, ttk
 
@@ -138,3 +148,5 @@ b_salvar = Button(janela,command=converter_imagem, text="Salvar",width=15, overr
 b_salvar.place(x=147, y=317)
 ```
 janela.mainloop ()
+
+**O que você acha?** 👍 👏 🫶 ❤️ 💡
