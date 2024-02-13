@@ -38,6 +38,8 @@ Exemplo: "/conversor/logo.png
 
 Exemplo: "/conversor/main.py
 
+**Código Completo**
+
 ```yaml
 # sudo apt-get install python-pip
 
