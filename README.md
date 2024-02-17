@@ -148,7 +148,7 @@ b_escolher.place(x=147, y=287)
 
 b_salvar = Button(janela,command=converter_imagem, text="Salvar",width=15, overrelief=RIDGE,  font=('ivy 10'),bg=co2, fg=co1 )
 b_salvar.place(x=147, y=317)
-```
 janela.mainloop ()
+```
 
 **O que você acha?** 👍 👏 🫶 ❤️ 💡
